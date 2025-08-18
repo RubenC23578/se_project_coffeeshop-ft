@@ -13,4 +13,6 @@ This is the second project of the fulltime Software Engineering program at Tripl
 
 ## Plan on improving the project
 
-Add your ideas here :)
+-Possibly add drop down menus for some of the sections, perhaps the Booking section.
+-Add more animations.
+-Possibly a dark-mode.
